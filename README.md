@@ -10,7 +10,7 @@ I'm Divyansh Jitpure, a passionate and results-driven Web Developer specializing
 * 🚀  I'm currently working on [COOPALETTE](http://coopalette.web.app/)
 * 🧠  I'm learning JS, React
 * 🤝  I'm open to collaborating on other Web Dev projects and maybe Game Dev Projetcts.
-* ⚡  I'm 🎹 Pianist aswell.
+* ⚡  I'm a 🎹 Pianist aswell.
 
 ### Skills
 
