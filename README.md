@@ -58,7 +58,3 @@ I'm Divyansh Jitpure, a passionate and results-driven Web Developer specializing
 <a href="http://www.github.com/Divyansh-Jitpure"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-Jitpure&stroke=0891b2&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=0891b2&currStreakLabel=14b8a6&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 <a href="https://github.com/Divyansh-Jitpure" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Jitpure&langs_count=10&title_color=14b8a6&text_color=0891b2&icon_color=64748b&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Divyansh-Jitpure/Divyansh-Jitpure/output/snake.svg" alt="Snake animation" />
