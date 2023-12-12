@@ -49,9 +49,7 @@ I'm Divyansh Jitpure, a passionate and results-driven Web Developer specializing
   </a>
 </div>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/Divyansh-Jitpure"><img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Jitpure&show_icons=true&hide=contribs&count_private=true&title_color=14b8a6&text_color=0891b2&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="Divyansh-Jitpure's GitHub stats" /></a>
 
