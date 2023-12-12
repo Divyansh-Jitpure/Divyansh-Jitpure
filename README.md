@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm Divyansh Jitpure, a passionate and results-driven Web Developer specializing in front-end technologies such as JavaScript, HTML, and CSS. With a solid foundation in these languages, I bring creativity and functionality to every project I undertake.
 
-* ✉️  You can contact me at [divyanshjitpure@gmail.com](mailto:divyanshjitpure@gmail.com)
-* 🚀  I'm currently working on [COOPALETTE](http://coopalette.web.app/)
-* 🧠  I'm learning JS, React
+* ✉️  You can contact me at [divyanshjitpure@gmail.com](mailto:divyanshjitpure@gmail.com).
+* 🚀  I'm currently working on [COOPALETTE](http://coopalette.web.app/).
+* 🧠  I'm learning JS, React.
 * 🤝  I'm open to collaborating on other Web Dev projects and maybe Game Dev Projetcts.
-* ⚡  I'm a 🎹 Pianist aswell.
+* ⭐  I'm a 🎹 Pianist aswell.
 
 ### Skills
 
