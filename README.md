@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🌐 Web Developer | Front-End Enthusiast 🚀
 ------------------------------------------
 
-I'm Divyansh Jitpure, a passionate and results-driven Web Developer specializing in front-end technologies such as JavaScript, HTML, and CSS. With a solid foundation in these languages, I bring creativity and functionality to every project I undertake.
+I'm Divyansh Jitpure, a web developer who loves working with front-end stuff like React, JavaScript, HTML, and CSS. I’m passionate about bringing creativity and functionality to every project I work on.
+
+💻 I enjoy creating seamless and visually appealing user experiences. With my skills in React JS and Tailwind CSS, I aim to build interactive web apps that keep users engaged and to turn design ideas into elegant, responsive, and user-friendly interfaces.
 
 * ✉️  You can contact me at [divyanshjitpure@gmail.com](mailto:divyanshjitpure@gmail.com).
 * 🚀  I'm currently working on EditR.
