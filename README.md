@@ -29,8 +29,6 @@ I'm Divyansh Jitpure, a web developer who loves working with front-end stuff lik
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />  <br/>
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
