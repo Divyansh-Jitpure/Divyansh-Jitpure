@@ -7,7 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Divyansh Jitpure, a web developer who loves working with front-end stuff like React, JavaScript, HTML, and CSS. I’m passionate about bringing creativity and functionality to every project I work on. 💻 I enjoy creating seamless and visually appealing user experiences. With my skills in React JS and Tailwind CSS, I aim to build interactive web apps that keep users engaged and to turn design ideas into elegant, responsive, and user-friendly interfaces.
 
 * ✉️  You can contact me at [divyanshjitpure@gmail.com](mailto:divyanshjitpure@gmail.com).<!--* 🚀  I'm currently working on EditR.-->
-* 🧠  I'm learning MERN stack.
+* 🧠  I'm working with MERN stack.
+* 🚀  I'm currently working on PassWired 🔐.
 * 🤝  I'm open to collaborating on other Web Dev projects and maybe Game Dev Projetcts.
 * ⭐  I'm a 🎹 Pianist aswell.
 
